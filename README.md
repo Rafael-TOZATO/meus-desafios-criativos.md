@@ -35,15 +35,11 @@ Este espaço centraliza as soluções práticas e implementações desenvolvidas
 
 ---
 
-## Autor
+ ## 📬 Contatos
 
-**Rafael Ornelas Tozato**
+  - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
+  - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
+  - ✍️ **Medium:** [@ornelas.tozato](https://medium.com/@ornelas.tozato)
+  - 🌐 **Portfólio PWA:** [tozato-dev-hub.vercel.app](https://tozato-dev-hub.vercel.app)
+  - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 
-Engenharia Química | Garantia da Qualidade | Governança 4.0
-
-### Contato
-
-- LinkedIn: [linkedin.com/in/rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
-- GitHub: [github.com/Rafael-TOZATO](https://github.com/Rafael-TOZATO)
-- Medium: [medium.com/@ornelas.tozato](https://medium.com/@ornelas.tozato)
-- Lovable: [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
