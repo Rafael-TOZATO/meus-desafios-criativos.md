@@ -19,13 +19,9 @@
 
 Repositório estruturado para armazenamento e versionamento dos desafios prácticos, projetos criativos e aplicações desenvolvidas ao longo da trilha de aprendizado e capacitação em Inteligência Artificial.
 
----
-
 ## Visão Geral do Repositório
 
 Este espaço centraliza as soluções práticas e implementações desenvolvidas, aplicando conceitos de engenharia de prompt, automação e integração de modelos de IA para resolução de problemas reais.
-
----
 
 ## Tecnologias e Ferramentas
 
