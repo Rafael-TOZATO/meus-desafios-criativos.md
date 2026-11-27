@@ -1,4 +1,4 @@
-p align="center">
+
   <img src="banner_primeiro_passo_ia.gif" alt="Primeiro Passo com IA Banner" width="100%">
 </p>alt="Primeiro Passo com IA Banner" width="100%">
 </p>
